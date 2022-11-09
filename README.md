@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @gregd100.  I am interested in Crypto coding.  I also enjoy writing code that is lightning fast.  I think asymmetric cryptography has a long life.
